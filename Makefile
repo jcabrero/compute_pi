@@ -12,5 +12,5 @@ lint:
 
 build:
 	go build ./internal/pi
-	go build -o bin/pi ./cmd/pi
+	go build -buildvcs=false -o bin/pi ./cmd/pi 
 
