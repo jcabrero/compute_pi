@@ -1,6 +1,6 @@
-# Calculate $pi$
+# Calculate $\pi$
 
-The code for computing $pi$ can be found in `internal/pi/pi.go`.
+The code for computing $\pi$ can be found in `internal/pi/pi.go`.
 
 ## How to run:
 To execute run:
